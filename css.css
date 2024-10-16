@@ -1,0 +1,47 @@
+.bg{
+    width: 100%;
+    background-color:#86469c;
+    height: 550px;
+    padding: 10px;
+}
+header{
+    
+    text-align: left;
+    color: rgb(0, 0, 0);
+    font-family:'Times New Roman', Times, serif;
+    font-size: xx-large;
+    
+}
+h1{
+    padding: 15px 0px;
+    font-size: 40px;
+    margin-top: 50px;
+    height: 18px;
+    text-indent: 20px;
+    color: #7A1CAC;
+}
+
+.inner{
+    width: 95%;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-decoration: none;
+    padding: 0px 10 ;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 25px;
+    background-color: #f5c5e1;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+   
+}
+
+.paragraph{
+    text-align: justify;
+    text-indent: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left:  50px;
+    padding-right: 50px;
+}
+
+
